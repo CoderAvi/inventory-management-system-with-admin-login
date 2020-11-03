@@ -1,0 +1,2 @@
+# inventory-management-system-with-admin-login
+i have created a simple inventory management system with admin login using GUI  and database in python language. it is a simple inventory system that  keeps records of all stocks. you can search products , update and delete the stocks after successful login to the account. in inventory you can add new products stocks and after that there is an option for logout. this software has also an exit button for quitting all task.
