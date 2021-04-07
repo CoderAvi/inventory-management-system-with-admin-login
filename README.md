@@ -20,8 +20,3 @@ for accesing the account feature of inventroy management system user id - "admin
                                                                 password- "admin"
                                                                 
 
-also there is one file with name "software" for running the software directly by doing double click on software file after installing python and downloading this code folder.
-                      
-                                                        
-                                                        
-                                                                       ~Avinash kumar
