@@ -16,3 +16,14 @@ Step2: Go inside the project folder, open cmd then type index.py and enter to st
 OR
 Step2: Simply, double click the .py file and you are ready to go.
 
+for accesing the account feature of inventroy management system user id - "admin"
+                                                                password- "admin"
+                                                                
+
+also there is one file with name "software" for running the software directly by doing double click on software file after installing python and downloading this code folder.
+                      
+                                                        
+                                                        
+                                                                       ~Avinash kumar
+
+
